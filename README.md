@@ -52,7 +52,3 @@ public/       imagens e currículo
 ```
 
 Os dados exibidos ficam centralizados em `lib/data.ts`. O widget do clima busca a Open-Meteo em `lib/weather.ts` com cache de 30 minutos e exibe a hora atual de Recife no navegador.
-
-## Contato
-
-m.marques23@hotmail.com
